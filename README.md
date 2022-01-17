@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kevin
+- 👋 Hi, I’m Oleksandr
 
-![picture](https://github.com/kevinbjb/kevinbjb/blob/main/status.png) <br />
+![picture](https://github.com/kevinbjb/oleksandrvorob/blob/main/status.png) <br />
 
 <br />
 <br />
@@ -12,4 +12,4 @@
 <br />
 <br />
 
-![picture](https://github.com/kevinbjb/kevinbjb/blob/main/winner.gif) <br /> -->
+![picture](https://github.com/oleksandrvorob/oleksandrvorob/blob/main/winner.gif) <br /> -->
